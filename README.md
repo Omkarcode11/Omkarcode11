@@ -71,9 +71,3 @@
 ## 🚀 Let's Collaborate!
 
 If you’re looking for someone to join your dev team or want to collaborate on exciting frontend or full stack projects, feel free to [connect](https://www.linkedin.com/in/omkardev/) or drop me an email.
-
----
-
-<p align="center">
-  <samp>Made with ❤️ by Omkar Sonawane</samp>
-</p>
