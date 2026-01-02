@@ -4,8 +4,8 @@
 </h2>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+(SDE-1);Backend-Focused+Full+Stack+Developer;2%2B+Years+Experience;750%2B+LeetCode+Problems;Always+Learning+📚&center=true&width=500&height=45">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+(SDE-1);Backend-Focused+Full+Stack+Developer;2%2B+Years+Experience;750%2B+LeetCode+Problems;Always+Learning+📚&center=true&width=500&height=45">
+  <a href="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend-Focused+Full+Stack+Developer;2%2B+Years+Experience;750%2B+LeetCode+Problems;Always+Learning+📚&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend-Focused+Full+Stack+Developer;2%2B+Years+Experience;750%2B+LeetCode+Problems;Always+Learning+📚&center=true&width=500&height=45">
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Omkarcode11/Omkarcode11/main/assets/programmer.gif" width="350" />
 
-- 💼 **Software Engineer (SDE-1) @ Ripples**
+- 💼 **Software Engineer @ Ripples**
 - 🧠 Backend-focused engineer with **2+ years of experience**
 - 🚀 Strong in **Node.js, distributed systems, caching, async pipelines**
 - 🧩 Solved **750+ LeetCode problems** (Graphs, DP, Trees, System Design patterns)
