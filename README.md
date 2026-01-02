@@ -15,7 +15,7 @@
 
 <p align="center">
   <samp>
-    Backend-focused Software Engineer (SDE-1) from <b>India 🇮🇳</b><br>
+    Backend-focused Software Engineer from <b>India 🇮🇳</b><br>
     Building scalable backend systems, clean APIs, and performant full-stack apps.
   </samp>
 </p>
