@@ -5,7 +5,7 @@ Backend-Focused Software Engineer | Node.js | System Design | Distributed System
 </h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Node.js+%7C+System+Design+%7C+Distributed+Systems;2%2B+Years+Industry+Experience;750%2B+LeetCode+Problems;Building+Scalable+Production+Systems&center=true&width=750&height=45">
+  <a href="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Node.js+%7C+System+Design+%7C+Distributed+Systems;2%2B+Years+Industry+Experience;900%2B+LeetCode+Problems;Building+Scalable+Production+Systems&center=true&width=750&height=45">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Node.js+%7C+System+Design+%7C+Distributed+Systems;2%2B+Years+Industry+Experience;750%2B+LeetCode+Problems;Building+Scalable+Production+Systems&center=true&width=750&height=45" />
   </a>
 </p>
