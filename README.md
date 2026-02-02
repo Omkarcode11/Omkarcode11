@@ -12,22 +12,22 @@ Backend-Focused Software Engineer | Node.js | System Design | Distributed System
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **Backend-Focused Software Engineer** with **2+ years of hands-on industry experience**, building and operating **scalable, production-grade backend systems** at fast-paced startups.
 
 I specialize in **Node.js backend development**, **event-driven architectures**, **asynchronous processing**, and **high-throughput APIs**, with strong exposure to **system design and distributed systems**.
 
-- 💼 Software Engineer at **Ripples**
-- ⚙️ Backend-heavy experience with **Node.js, Redis, MongoDB, PostgreSQL**
-- 🧠 Strong focus on **system design, scalability & performance**
-- 🧩 Solved **900+ LeetCode problems**
-- 🔍 Comfortable owning systems **end-to-end** — from design to production debugging
-- 🌍 Based in **India 🇮🇳** | Open to global opportunities
+- Software Engineer at **Ripples**
+- Backend-heavy experience with **Node.js, Redis, MongoDB, PostgreSQL**
+- Strong focus on **system design, scalability & performance**
+- Solved **900+ LeetCode problems**
+- Comfortable owning systems **end-to-end** — from design to production debugging
+- Based in **India 🇮🇳** | Open to global opportunities
 
 ---
 
-## 🧠 Core Expertise (Keywords Recruiters Search For)
+## Core Expertise (Keywords Recruiters Search For)
 
 - Backend Software Engineering (Node.js)
 - REST API Design & Optimization
@@ -41,7 +41,7 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Node.js, Express.js**
@@ -62,7 +62,7 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 🏗️ Professional Experience Snapshot
+## Professional Experience Snapshot
 
 ### Software Engineer — Ripples
 - Owned and shipped **core rewards engine** used by Shopify brands (referrals, loyalty, UGC).
@@ -80,9 +80,9 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 📊 Problem Solving & DSA
+## Problem Solving & DSA
 
-- ✅ **900+ LeetCode problems solved**
+- **900+ LeetCode problems solved**
 - Strong command over:
   - Graphs & Trees
   - Dynamic Programming
@@ -94,21 +94,21 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 📦 Featured Backend Projects
+## Featured Backend Projects
 
-### 🔹 Real-Time Messaging Service
+### Real-Time Messaging Service
 **Node.js, Socket.IO, MongoDB**
 - WebSocket-based messaging system with concurrent connections.
 - Efficient message persistence, pagination, and event fan-out.
 
-### 🔹 Asynchronous Notification Processor
+### Asynchronous Notification Processor
 **Node.js, Redis**
 - Redis-backed background job system with retries and backoff.
 - Reduced synchronous API latency via async workers.
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://protfolio-rouge-two.vercel.app/" target="_blank">
@@ -127,14 +127,14 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 🤝 Open To Opportunities
+## Open To Opportunities
 
 - Backend Engineer / Software Engineer roles
 - Product-based companies & startups
 - System design–heavy engineering work
 - Open-source collaboration
 
-📫 **Email:** omkarsonawaneomkar2@gmail.com
+**Email:** omkarsonawaneomkar2@gmail.com
 
 ---
 
@@ -153,22 +153,22 @@ Backend-Focused Software Engineer | Node.js | System Design | Distributed System
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a **Backend-Focused Software Engineer** with **2+ years of hands-on industry experience**, building and operating **scalable, production-grade backend systems** at fast-paced startups.
 
 I specialize in **Node.js backend development**, **event-driven architectures**, **asynchronous processing**, and **high-throughput APIs**, with strong exposure to **system design and distributed systems**.
 
-- 💼 Software Engineer at **Ripples**
-- ⚙️ Backend-heavy experience with **Node.js, Redis, MongoDB, PostgreSQL**
-- 🧠 Strong focus on **system design, scalability & performance**
-- 🧩 Solved **900+ LeetCode problems**
-- 🔍 Comfortable owning systems **end-to-end** — from design to production debugging
-- 🌍 Based in **India 🇮🇳** | Open to global opportunities
+- Software Engineer at **Ripples**
+- Backend-heavy experience with **Node.js, Redis, MongoDB, PostgreSQL**
+- Strong focus on **system design, scalability & performance**
+- Solved **900+ LeetCode problems**
+- Comfortable owning systems **end-to-end** — from design to production debugging
+- Based in **India 🇮🇳** | Open to global opportunities
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 
 - Backend Software Engineering (Node.js)
 - REST API Design & Optimization
@@ -182,7 +182,7 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Node.js, Express.js**
@@ -203,7 +203,7 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 🏗️ Professional Experience
+## Professional Experience
 
 ### Software Engineer — Ripples
 - Owned and shipped **core rewards engine** used by Shopify brands (referrals, loyalty, UGC).
@@ -221,9 +221,9 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 📊 Problem Solving & DSA
+## Problem Solving & DSA
 
-- ✅ **900+ LeetCode problems solved**
+- **900+ LeetCode problems solved**
 - Strong command over:
   - Graphs & Trees
   - Dynamic Programming
@@ -235,14 +235,14 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 📦 Featured Backend Projects
+## Featured Backend Projects
 
-### 🔹 Real-Time Messaging Service
+### Real-Time Messaging Service
 **Node.js, Socket.IO, MongoDB**
 - WebSocket-based messaging system with concurrent connections.
 - Efficient message persistence, pagination, and event fan-out.
 
-### 🔹 Asynchronous Notification Processor
+### Asynchronous Notification Processor
 **Node.js, Redis**
 - Redis-backed background job system with retries and backoff.
 - Reduced synchronous API latency via async workers.
@@ -268,14 +268,14 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 🤝 Open To Opportunities
+## Open To Opportunities
 
 - Backend Engineer / Software Engineer roles
 - Product-based companies & startups
 - System design–heavy engineering work
 - Open-source collaboration
 
-📫 **Email:** omkarsonawaneomkar2@gmail.com
+**Email:** omkarsonawaneomkar2@gmail.com
 
 ---
 
