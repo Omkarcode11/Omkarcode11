@@ -1,72 +1,110 @@
-<h2 align="center">
-  Hi, I'm Omkar Sonawane 👋
-</h2>
+<h1 align="center">Hi 👋, I'm Omkar Sonawane</h1>
+
+<h3 align="center">
+Backend-Focused Software Engineer | Node.js | System Design | Distributed Systems
+</h3>
 
 <p align="center">
-  <strong>Backend-Focused Software Engineer</strong><br/>
-  Building scalable systems, clean APIs, and performance-driven applications
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend-Focused+Full+Stack+Developer;2%2B+Years+Experience;750%2B+LeetCode+Problems;System+Design+Enthusiast&center=true&width=500&height=45">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend-Focused+Full+Stack+Developer;2%2B+Years+Experience;750%2B+LeetCode+Problems;System+Design+Enthusiast&center=true&width=500&height=45" />
+  <a href="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Node.js+%7C+System+Design+%7C+Distributed+Systems;2%2B+Years+Industry+Experience;750%2B+LeetCode+Problems;Building+Scalable+Production+Systems&center=true&width=750&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Node.js+%7C+System+Design+%7C+Distributed+Systems;2%2B+Years+Industry+Experience;750%2B+LeetCode+Problems;Building+Scalable+Production+Systems&center=true&width=750&height=45" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
+
+I’m a **Backend-Focused Software Engineer** with **2+ years of hands-on industry experience**, building and operating **scalable, production-grade backend systems** at fast-paced startups.
+
+I specialize in **Node.js backend development**, **event-driven architectures**, **asynchronous processing**, and **high-throughput APIs**, with strong exposure to **system design and distributed systems**.
 
 - 💼 Software Engineer at **Ripples**
-- 🧠 Backend-focused engineer with **2+ years of industry experience**
-- 🚀 Strong in **Node.js, system design, caching, async processing**
-- 🧩 Solved **750+ LeetCode problems** across:
-  - Graphs
-  - Dynamic Programming
-  - Trees
-  - System Design patterns
-- 🌱 Currently deep-diving into **scalability, distributed systems & LLD**
-- 📍 Based in **India 🇮🇳**
+- ⚙️ Backend-heavy experience with **Node.js, Redis, MongoDB, PostgreSQL**
+- 🧠 Strong focus on **system design, scalability & performance**
+- 🧩 Solved **750+ LeetCode problems**
+- 🔍 Comfortable owning systems **end-to-end** — from design to production debugging
+- 🌍 Based in **India 🇮🇳** | Open to global opportunities
+
+---
+
+## 🧠 Core Expertise (Keywords Recruiters Search For)
+
+- Backend Software Engineering (Node.js)
+- REST API Design & Optimization
+- Distributed Systems & Scalability
+- Event-Driven Architecture
+- Async Workers, Queues & Background Jobs
+- Caching Strategies (Redis)
+- Fault Tolerance, Retries & Idempotency
+- Low-Level Design (LLD)
+- Data Structures & Algorithms (DSA)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
-- Node.js, Express.js
-- Redis, MongoDB, PostgreSQL
-- REST APIs, Caching, Async Pipelines
+### Backend
+- **Node.js, Express.js**
+- **Redis (Caching, Queues)**
+- **MongoDB, PostgreSQL**
+- REST APIs, Async Pipelines, WebSockets
 
-**Frontend**
+### Frontend (Working Knowledge)
+- JavaScript, TypeScript
 - React, Next.js
-- TypeScript, Tailwind CSS
 
-**DevOps & Tools**
+### DevOps & Tooling
 - Docker
 - Git & GitHub
+- Linux
+- CI/CD
 - Vercel
 
 ---
 
-## 🧩 What I Focus On
+## 🏗️ Professional Experience Snapshot
 
-- Designing **clean and scalable backend architectures**
-- Writing **maintainable and testable code**
-- Solving **real-world engineering problems**
-- Applying **DSA + LLD + System Design** in production systems
+### Software Engineer — Ripples
+- Owned and shipped **core rewards engine** used by Shopify brands (referrals, loyalty, UGC).
+- Designed **event-driven async systems** using workers, caching, retries, and idempotency.
+- Reduced backend processing latency by **60%** while maintaining fault tolerance.
+- Integrated **Meta / Instagram APIs** and **WhatsApp providers** for automated workflows.
+- Fixed critical **Shopify extension performance issues**, achieving **sub-second load times**.
+- Took ownership of **production reliability** without dedicated ops support.
+
+### Project Engineer — Crio.do
+- Built **large-scale automation systems** scraping **20,000+ live job listings**.
+- Re-architected execution pipelines, reducing processing time from **60 mins → 9 mins**.
+- Designed async workflows handling **captchas, retries, account bans & recovery**.
+- Owned reliability, monitoring, and incident resolution end-to-end.
 
 ---
 
-## 📊 Problem Solving
+## 📊 Problem Solving & DSA
 
-- **750+ problems solved on LeetCode**
-- Strong foundation in:
-  - Data Structures
-  - Algorithms
-  - Low-Level Design
+- ✅ **750+ LeetCode problems solved**
+- Strong command over:
+  - Graphs & Trees
+  - Dynamic Programming
+  - Sliding Window & Two Pointers
   - Backend interview patterns
+- Apply **DSA concepts directly to production system design**
 
 🔗 **LeetCode:** https://leetcode.com/omkardev/
+
+---
+
+## 📦 Featured Backend Projects
+
+### 🔹 Real-Time Messaging Service
+**Node.js, Socket.IO, MongoDB**
+- WebSocket-based messaging system with concurrent connections.
+- Efficient message persistence, pagination, and event fan-out.
+
+### 🔹 Asynchronous Notification Processor
+**Node.js, Redis**
+- Redis-backed background job system with retries and backoff.
+- Reduced synchronous API latency via async workers.
 
 ---
 
@@ -89,11 +127,15 @@
 
 ---
 
-## 🤝 Open To
+## 🤝 Open To Opportunities
 
-- Backend / Full-Stack roles
+- Backend Engineer / Software Engineer roles
 - Product-based companies & startups
-- System design–heavy engineering problems
+- System design–heavy engineering work
 - Open-source collaboration
 
 📫 **Email:** omkarsonawaneomkar2@gmail.com
+
+---
+
+⭐ *If you’re interested in backend systems, scalability, or system design — feel free to connect!*
