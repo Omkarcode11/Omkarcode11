@@ -21,13 +21,13 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 - 💼 Software Engineer at **Ripples**
 - ⚙️ Backend-heavy experience with **Node.js, Redis, MongoDB, PostgreSQL**
 - 🧠 Strong focus on **system design, scalability & performance**
-- 🧩 Solved **750+ LeetCode problems**
+- 🧩 Solved **900+ LeetCode problems**
 - 🔍 Comfortable owning systems **end-to-end** — from design to production debugging
 - 🌍 Based in **India 🇮🇳** | Open to global opportunities
 
 ---
 
-## 🧠 Core Expertise (Keywords Recruiters Search For)
+## 🧠 Core Expertise
 
 - Backend Software Engineering (Node.js)
 - REST API Design & Optimization
@@ -62,7 +62,7 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ---
 
-## 🏗️ Professional Experience Snapshot
+## 🏗️ Professional Experience
 
 ### Software Engineer — Ripples
 - Owned and shipped **core rewards engine** used by Shopify brands (referrals, loyalty, UGC).
@@ -82,7 +82,7 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 
 ## 📊 Problem Solving & DSA
 
-- ✅ **750+ LeetCode problems solved**
+- ✅ **900+ LeetCode problems solved**
 - Strong command over:
   - Graphs & Trees
   - Dynamic Programming
@@ -111,7 +111,7 @@ I specialize in **Node.js backend development**, **event-driven architectures**,
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://protfolio-rouge-two.vercel.app/" target="_blank">
+  <a href="https://portfolio1-five-fawn.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/omkardev/" target="_blank">
